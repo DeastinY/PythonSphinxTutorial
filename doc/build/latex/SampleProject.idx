@@ -1,0 +1,11 @@
+\indexentry{Main (Modul)|hyperpage}{1}
+\indexentry{MyBaseClass (Klasse in Main)|hyperpage}{1}
+\indexentry{BaseClassMember (Attribut von Main.MyBaseClass)|hyperpage}{1}
+\indexentry{set\_baseclassmember() (Methode von Main.MyBaseClass)|hyperpage}{1}
+\indexentry{MyClass (Klasse in Main)|hyperpage}{1}
+\indexentry{SomeMember (Attribut von Main.MyClass)|hyperpage}{1}
+\indexentry{set\_somemember() (Methode von Main.MyClass)|hyperpage}{1}
+\indexentry{MyInterface (Klasse in Main)|hyperpage}{1}
+\indexentry{Interfacemethod() (Methode von Main.MyInterface)|hyperpage}{1}
+\indexentry{Util (Modul)|hyperpage}{2}
+\indexentry{start() (im Modul Util)|hyperpage}{2}

@@ -1,0 +1,29 @@
+\begin{theindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter B
+  \item BaseClassMember (Attribut von Main.MyBaseClass), \hyperpage{1}
+
+  \indexspace
+  \bigletter I
+  \item Interfacemethod() (Methode von Main.MyInterface), \hyperpage{1}
+
+  \indexspace
+  \bigletter M
+  \item Main (Modul), \hyperpage{1}
+  \item MyBaseClass (Klasse in Main), \hyperpage{1}
+  \item MyClass (Klasse in Main), \hyperpage{1}
+  \item MyInterface (Klasse in Main), \hyperpage{1}
+
+  \indexspace
+  \bigletter S
+  \item set\_baseclassmember() (Methode von Main.MyBaseClass), \hyperpage{1}
+  \item set\_somemember() (Methode von Main.MyClass), \hyperpage{1}
+  \item SomeMember (Attribut von Main.MyClass), \hyperpage{1}
+  \item start() (im Modul Util), \hyperpage{2}
+
+  \indexspace
+  \bigletter U
+  \item Util (Modul), \hyperpage{2}
+
+\end{theindex}
