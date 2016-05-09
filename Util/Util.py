@@ -1,9 +1,9 @@
 def UtilMethod1(argument):
-    """"This Utilmethod takes one argument.""""
+    """This Utilmethod takes one argument."""
     pass
 
 def UtilMethod2(argument1, argument2):
-    """This Utilmethod takes two arguments.""""
+    """This Utilmethod takes two arguments."""
     pass
 
 class UtilClass(object):

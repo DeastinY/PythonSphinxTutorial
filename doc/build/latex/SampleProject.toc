@@ -5,5 +5,5 @@
 \contentsline {subsection}{\numberline {1.2.1}Submodules}{2}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Util.Util module}{2}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}Module contents}{2}{subsection.1.2.3}
-\contentsline {chapter}{Python-Modulindex}{3}{section*.12}
-\contentsline {chapter}{Stichwortverzeichnis}{5}{section*.13}
+\contentsline {chapter}{Python-Modulindex}{3}{section*.16}
+\contentsline {chapter}{Stichwortverzeichnis}{5}{section*.17}

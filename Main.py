@@ -36,7 +36,7 @@ class MyClass(MyInterface, MyBaseClass):
 
     def __init__(self):
         """MyClass Contsructor. Initializes a member and calls the Super ctor."""
-        super(MyBaseClass, self).__init()
+        super(MyClass, self).__init()
 
     def set_somemember(self,number):
         """Sets self.SomeMember to number.

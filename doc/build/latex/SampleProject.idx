@@ -7,5 +7,10 @@
 \indexentry{set\_somemember() (Methode von Main.MyClass)|hyperpage}{1}
 \indexentry{MyInterface (Klasse in Main)|hyperpage}{1}
 \indexentry{Interfacemethod() (Methode von Main.MyInterface)|hyperpage}{1}
+\indexentry{Util.Util (Modul)|hyperpage}{2}
+\indexentry{UtilClass (Klasse in Util.Util)|hyperpage}{2}
+\indexentry{DoSomething() (Methode von Util.Util.UtilClass)|hyperpage}{2}
+\indexentry{UtilMethod1() (im Modul Util.Util)|hyperpage}{2}
+\indexentry{UtilMethod2() (im Modul Util.Util)|hyperpage}{2}
 \indexentry{Util (Modul)|hyperpage}{2}
 \indexentry{start() (im Modul Util)|hyperpage}{2}

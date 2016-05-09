@@ -5,6 +5,10 @@
   \item BaseClassMember (Attribut von Main.MyBaseClass), \hyperpage{1}
 
   \indexspace
+  \bigletter D
+  \item DoSomething() (Methode von Util.Util.UtilClass), \hyperpage{2}
+
+  \indexspace
   \bigletter I
   \item Interfacemethod() (Methode von Main.MyInterface), \hyperpage{1}
 
@@ -25,5 +29,9 @@
   \indexspace
   \bigletter U
   \item Util (Modul), \hyperpage{2}
+  \item Util.Util (Modul), \hyperpage{2}
+  \item UtilClass (Klasse in Util.Util), \hyperpage{2}
+  \item UtilMethod1() (im Modul Util.Util), \hyperpage{2}
+  \item UtilMethod2() (im Modul Util.Util), \hyperpage{2}
 
 \end{theindex}
